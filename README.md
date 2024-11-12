@@ -73,10 +73,8 @@ Mínimo: 30 linhas de dados
 não adicione datas inferior a novembro de 2024
 ```
 
-> Confira os dados obtidos clicando no link abaixo:
+### [ Confira os dados obtidos clicando aqui](./arquivos-criados-ia/dados-planilha-gerados-ia.md)
 
-* <a href= "">LINK GITHUB</a>
-<p><i>para abrir sem fechar o gitHub segure ctrl e clique sobre o link acima </i></p>
 
 ### 3. Prompt para geração de ideia de nomes da planilha 
 
@@ -113,11 +111,8 @@ Com base nos dados inseridos na planilha, a IA gerou insights úteis para o usu�
 * **Possíveis gastos a reduzir**: Pontos de atenção para otimizar as finanças, como custos com assinaturas automáticas, lazer e refeições em restaurantes.
 * **Recomendações de economia**: Sugestões de ajustes que podem levar a uma economia significativa ao longo do tempo, como evitar compras por impulso, reduzir o uso do cartão de crédito e priorizar despesas essenciais.
 
-> Confira o insight completo clicanco no link abaixo:
 
-* <a href= "">LINK GITHUB</a>
-<p><i>para abrir sem fechar o gitHub segure ctrl e clique sobre o link acima </i></p>
-
+### [ Confira os dados obtidos clicando aqui](./arquivos-criados-ia/insights-ia.md)
 
 
 ## Exemplos de Aplicação da IA
