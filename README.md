@@ -1,12 +1,13 @@
 # Controle Financeiro com Insights de IA
  
-[Sobre o Projeto](#sobre-o-projeto) • [Demostração](#demostração) • [Tecnologias Utilizadas](#tecnologias-utilizadas) • [Funcionalidades](#funcionalidades) • [Design e Interface](#-design-e-interface) • [Como Usar](#como-usar) • [Personalização](#personalizacao) • [Estrutura de Pastas](#-estrutura-de-pastas) • [Licença](#licenca) •[Referências](#referências) • [Contato](#contato)
+[Sobre o Projeto](#sobre-o-projeto) • [Demostração](#demostração) • [Tecnologias Utilizadas](#tecnologias-utilizadas) • [Como foi feito](#como-foi-feito) • [Funcionalidades da Planilha](#funcionalidades-da-planilha) • [Prompts Desenvolvidos e Resultados](#prompts-desenvolvidos-e-resultados) • [Insights Gerados](#insight-gerados) • [Exemplos de Aplicação da IA](#explos-de-aplicacao-da-ia) •[Referências](#referências) • [Licença](#licenca) • [Contato](#contato)
 
 
 ## Sobre o Projeto
 
 Este projeto faz parte de um desafio do bootcamp de Inteligência Artificial, onde a missão foi desenvolver uma planilha de controle financeiro, implementar validação de dados e gerar insights poderosos através de IA. A ideia central é demonstrar como técnicas de IA e análise de dados podem transformar os dados objtidos através de uma planilha em uma ferramenta estratégica para decisões financeiras mais eficazes.
 
+### Demonstração
 
 ![imagem da planilha](./arquivos-criados-ia/print-tela-planilha.png)
 
