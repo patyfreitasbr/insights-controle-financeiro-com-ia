@@ -1,6 +1,6 @@
 # Controle Financeiro com Insights de IA
  
-[Sobre o Projeto](#sobre-o-projeto) • [Demostração](#demostração) • [Tecnologias Utilizadas](#tecnologias-utilizadas) • [Como foi feito](#como-foi-feito) • [Funcionalidades da Planilha](#funcionalidades-da-planilha) • [Prompts Desenvolvidos e Resultados](#prompts-desenvolvidos-e-resultados) • [Insights Gerados](#insight-gerados) • [Exemplos de Aplicação da IA](#explos-de-aplicacao-da-ia) •[Referências](#referências) • [Licença](#licenca) • [Contato](#contato)
+[Sobre o Projeto](#sobre-o-projeto) • [Demonstração](#demostração) • [Tecnologias Utilizadas](#tecnologias-utilizadas) • [Como foi feito](#como-foi-feito) • [Funcionalidades da Planilha](#funcionalidades-da-planilha) • [Prompts Desenvolvidos e Resultados](#prompts-desenvolvidos-e-resultados) • [Insights Gerados](#insight-gerados) • [Exemplos de Aplicação da IA](#explos-de-aplicacao-da-ia) •[Referências](#referências) • [Licença](#licenca) • [Contato](#contato)
 
 
 ## Sobre o Projeto
