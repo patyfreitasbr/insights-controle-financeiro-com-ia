@@ -60,10 +60,10 @@ Data, Tipo, Categoria, Descrição, Valor, Operação Bancária, Status
 
 {REGRAS}
 
-Data: dia, mês= novembro, anos = 2024
+Data: dia, mês = novembro, anos = 2024
 tipo: entrada e saída
 Categoria: renda fixa, lazer, alimentação e complete com o que achar necessário
-Descrição: Salário mensa, gasolina, lazer, alimentação, 	
+Descrição: Salário mensal, gasolina, lazer, alimentação, 	
 Valor: R$ 	
 Operação bancaria: Cartão de crédito, conta, Dinheiro, Pix, debito automático, transferência, boleto	
 Status: recebido, pendente, atrasado
@@ -71,7 +71,7 @@ Status: recebido, pendente, atrasado
 Mínimo: 30 linhas de dados
 
 {Negativas}
-não adicione datas inferior a novembro de 2024
+não adicione datas inferiores a novembro de 2024
 ```
 
 ### [ Confira os dados obtidos clicando aqui](./arquivos-criados-ia/dados-planilha-gerados-ia.md)
@@ -127,7 +127,7 @@ Este projeto é um exemplo prático de como a IA pode ser aplicada para:
 
 ## 📌 Créditos e Referências
 
-Este projeto foi desenvolvido como parte do desafio do Bootcamp "CCAIXA - IA Generativa com Microsoft Copilot [Dio - Digital Innovation One]( https://www.dio.me/sign-up?ref=2772EA2C589E462BB0C382518E0ACBA2) .
+Este projeto foi desenvolvido como parte do desafio do Bootcamp "CAIXA - IA Generativa com Microsoft Copilot [Dio - Digital Innovation One]( https://www.dio.me/sign-up?ref=2772EA2C589E462BB0C382518E0ACBA2) .
 
 
 
